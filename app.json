@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "AlQuran",
+    "slug": "AlQuran",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/image/brand.png",
+    "splash": {
+      "image": "./assets/image/alQuran.png",
+      "resizeMode": "contain"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.abdullah.AlQuran"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ab9d94f5-06af-4eb2-a290-0454a67311d1"
+      }
+    }
+  }
+}
